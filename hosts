@@ -1,0 +1,2 @@
+[webservers]
+10.232.212.61	ansible_user=app ansible_python_interpreter=/usr/bin/python2.7
